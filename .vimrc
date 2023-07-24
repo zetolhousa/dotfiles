@@ -35,3 +35,8 @@ set nowrap
 set sidescroll=2
 set hlsearch
 set ic
+
+set foldmethod=indent
+set foldnestmax=7
+set nofoldenable
+set foldlevel=2
